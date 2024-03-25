@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "LINE Seed Sans TH Regular";
+  font-weight: 400;
+  font-style: normal;
+  src: url("../public/fonts/LINESeedSansTH_Rg.ttf");
+}
+
+@font-face {
+  font-family: "LINE Seed Sans TH Bold";
+  font-weight: 700;
+  font-style: bold;
+  src: url("../public/fonts/LINESeedSansTH_Bd.ttf");
+}
+
+@font-face {
+  font-family: "Kanit Light";
+  font-weight: 400;
+  font-style: normal;
+  src: url("../public/fonts/Kanit-Light.ttf");
+}
+
+@font-face {
+  font-family: "Kanit Medium";
+  font-weight: 700;
+  font-style: bold;
+  src: url("../public/fonts/Kanit-Medium.ttf");
+}
